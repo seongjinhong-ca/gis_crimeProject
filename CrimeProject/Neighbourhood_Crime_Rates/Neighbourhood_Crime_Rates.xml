@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <hierarchyLevelName>
+        <gco:CharacterString>dataset</gco:CharacterString>
+    </hierarchyLevelName>
+    <contact gco:nilReason="missing"/>
+    <dateStamp gco:nilReason="missing"/>
+    <metadataStandardName>
+        <gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>2007</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation gco:nilReason="missing"/>
+            <abstract>
+                <gco:CharacterString>Toronto Neighbourhoods Boundary File includes 2014-2021 Crime Data by Neighbourhood. Counts are available at the offence and/or victim level for Assault, Auto Theft, Break and Enter, Robbery, Theft Over, Homicide, Shootings and Theft from Motor Vehicle. Data also includes crime rates per 100,000 people by neighbourhood based on each year's Projected Population by Environics Analytics.This data does not include occurrences that have been deemed unfounded. The definition of unfounded according to Statistics Canada is: “It has been determined through police investigation that the offence reported did not occur, nor was it attempted” (Statistics Canada, 2020).**The dataset is intended to provide communities with information regarding public safety and awareness. The data supplied to the Toronto Police Service by the reporting parties is preliminary and may not have been fully verified at the time of publishing the dataset.   The location of crime occurrences have been deliberately offset to the nearest road intersection node to protect the privacy of parties involved in the occurrence. All location data must be considered as an approximate location of the occurrence and users are advised not to interpret any of these locations as related to a specific address or individual.NOTE: Due to the offset of occurrence location, the numbers by Division and Neighbourhood may not reflect the exact count of occurrences reported within these geographies. Therefore, the Toronto Police Service does not guarantee the accuracy, completeness, timeliness of the data and it should not be compared to any other source of crime data.By accessing these datasets, the user agrees to full acknowledgement of the Open Government Licence - Ontario.In accordance with the Municipal Freedom of Information and Protection of Privacy Act, the Toronto Police Service has taken the necessary measures to protect the privacy of individuals involved in the reported occurrences. No personal information related to any of the parties involved in the occurrence will be released as open data. ** Statistics Canada. 2020. Uniform Crime Reporting Manual. Surveys and Statistical Programs. Canadian Centre for Justice Statistics.Download Documentation</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Toronto Neighbourhoods Boundary File includes 2014-2021 Crime Data by Neighbourhood. Counts are available for Assault, Auto Theft, Break and Enter, Robbery, Theft Over, Homicide, Shootings and Theft from Motor Vehicle. Data also includes crime rates per 100,000 people by neighbourhood based on each year's Projected Population by Environics Analytics.</gco:CharacterString>
+            </purpose>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Neighbourhood</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Neighourhood Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Statistics</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Neighbourhood</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Neighourhood Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Statistics</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Neighbourhood</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Neighourhood Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Statistics</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>Neighbourhood</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Neighourhood Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Rates</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Crime Statistics</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>Open Government Licence – OntarioYou are encouraged to use the Information that is available under this licence with only a few conditions.Using Information under this licenceUse of any Information indicates your acceptance of the terms below.The Information Provider grants you a worldwide, royalty-free, perpetual, non-exclusive licence to use the Information, including for commercial purposes, subject to the terms below.You are free to:Copy, modify, publish, translate, adapt, distribute or otherwise use the Information in any medium, mode or format for any lawful purpose.You must, where you do any of the above:Acknowledge the source of the Information by including any attribution statement specified by the Information Provider(s) and, where possible, provide a link to this licence.If the Information Provider does not provide a specific attribution statement, or if you are using Information from several Information Providers and multiple attributions are not practical for your product or application, you must use the following attribution statement:Contains information licensed under the Open Government Licence – Ontario.The terms of this licence are important, and if you fail to comply with any of them, the rights granted to you under this licence, or any similar licence granted by the Information Provider, will end automatically.ExemptionsThis licence does not grant you any right to use:Personal Information;Information or Records not accessible under the Freedom of Information and Protection of Privacy Act (Ontario);third party rights the Information Provider is not authorized to license;the names, crests, logos, or other official symbols of the Information Provider; andInformation subject to other intellectual property rights, including patents, trade-marks and official marks.Non-endorsementThis licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider endorses you or your use of the Information.No warrantyThe Information is licensed &amp;quot;as is&amp;quot;, and the Information Provider excludes all representations, warranties, obligations, and liabilities, whether express or implied, to the maximum extent permitted by law.The Information Provider is not liable for any errors or omissions in the Information, and will not under any circumstances be liable for any direct, indirect, special, incidental, consequential, or other loss, injury or damage caused by its use or otherwise arising in connection with this licence or the Information, even if specifically advised of the possibility of such loss, injury or damage.Governing LawThis licence is governed by the laws of the Province of Ontario and the applicable laws of Canada. Legal proceedings related to this licence may only be brought in the courts of Ontario.DefinitionsIn this licence, the terms below have the following meanings:&amp;quot;Information&amp;quot;means information resources or Records protected by copyright or other information or Records that are offered for use under the terms of this licence.&amp;quot;Information Provider&amp;quot;means Her Majesty the Queen in right of Ontario.&amp;quot;Personal Information&amp;quot;has the meaning set out in section 2(1) of Freedom of Information and Protection of Privacy Act (Ontario).&amp;quot;Records&amp;quot;has the meaning of &amp;quot;record&amp;quot; as set out in the Freedom of Information and Protection of Privacy Act (Ontario).&amp;quot;You&amp;quot;means the natural or legal person, or body of persons corporate or incorporate, acquiring rights under this licence.VersioningThis is version 1.0 of the Open Government Licence – Ontario. The Information Provider may make changes to the terms of this licence from time to time and issue a new version of the licence. Your use of the Information will be governed by the terms of the licence in force as of the date you accessed the information.Updated: September 14, 2016Published: June 18, 2013</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <language gco:nilReason="missing"/>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+        </MD_DataIdentification>
+    </identificationInfo>
+</MD_Metadata>

@@ -1,0 +1,4 @@
+Column,Description,URL
+Pop2016,"Total population from the 2016 Census, aggregated by Statistics Canada Census Tracts to the City of Toronto’s 140 Neighbourhood Planning Areas",http://www12.statcan.gc.ca/census-recensement/2016/ref/98-501/98-501-x2016001-eng.cfm
+Pop2011,"Total population from the 2011 Census, aggregated by Statistics Canada Census Tracts to the City of Toronto’s 140 Neighbourhood Planning Areas.",http://www12.statcan.gc.ca/nhs-enm/2011/dp-pd/dt-td/Rp-eng.cfm?APATH=3&DETAIL=0&DIM=0&FL=A&FREE=0&GC=0&GID=0&GK=0&GRP=0&LANG=E&PID=107551&PRID=0&PTYPE=105277&S=0&SHOWALL=0&SUB=0&THEME=95&Temporal=2013&VID=0&VNAMEE=&VNAMEF=
+PopChg11t16,"% of change between 2011 and 2016 population, aggregated by the City of Toronto to the City's 140 Neighbourhood Planning Areas.",http://www12.statcan.gc.ca/census-recensement/2016/ref/98-501/98-501-x2016001-eng.cfm
